@@ -29,7 +29,8 @@ const rehypePrettyCodeOptions = {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com",
+  site: "https://blackcatcxii.github.io",
+  base: '/nimbus',
   integrations: [mdx(), sitemap(), tailwind(), preact()],
   markdown: {
     extendDefaultPlugins: true,
