@@ -2,7 +2,7 @@
 title: "Solemne 1"
 description: "En parejas diseñen y construyan un lente de Snapchat utilizando la integración SnapML. Pueden utilizar cualquiera de los templates de machine learning disponibles en la documentación de Snap. "
 featured: true
-seriesId: first-series
+seriesId: Solemnes
 orderInSeries: 1
 pubDate: "Sept 09 2023"
 tags:
@@ -26,7 +26,7 @@ Esto no resluto como queriamos
 | --- | ----------- |
 | ![Imagen_Style_1](~/assets/IMG_0992.jpg) | ![Imagen_Style_2](~/assets/Test_2.jpeg) |
 |  | |
-Entomves usamos otros imagenes de referencia para intentar hacer el filtro de nuevo
+Entonces usamos otros imagenes de referencia para intentar hacer el filtro de nuevo
 
 |  | |
 Unavez terminado de crear el modelo nos pusimos a crear el filtro an snapchat lens del cual creamos un timelaps para mostrar nuestro proceso.
