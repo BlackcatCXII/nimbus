@@ -21,11 +21,14 @@ Nos fuimos al google colab y empezamos a crear el modelo
 
 ![screenshot](~/assets/image.png)
 
+Esto no resluto como queriamos
 | Intento 1 | Intento 2 |
 | --- | ----------- |
 | ![Imagen_Style_1](~/assets/IMG_0992.jpg) | ![Imagen_Style_2](~/assets/Test_2.jpeg) |
 |  | |
+Entomves usamos otros imagenes de referencia para intentar hacer el filtro de nuevo
 
+|  | |
 Unavez terminado de crear el modelo nos pusimos a crear el filtro an snapchat lens del cual creamos un timelaps para mostrar nuestro proceso.
 
 | TimeLaps | Gameplay |
