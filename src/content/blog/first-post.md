@@ -26,9 +26,10 @@ Esto no resluto como queriamos
 | --- | ----------- |
 | ![Imagen_Style_1](~/assets/IMG_0992.jpg) | ![Imagen_Style_2](~/assets/Test_2.jpeg) |
 |  | |
+
 Entonces usamos otros imagenes de referencia para intentar hacer el filtro de nuevo
 
-|  | |
+---
 Unavez terminado de crear el modelo nos pusimos a crear el filtro an snapchat lens del cual creamos un timelaps para mostrar nuestro proceso.
 
 | TimeLaps | Gameplay |
