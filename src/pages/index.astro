@@ -7,7 +7,7 @@ import PostsList from "../components/PostsList.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import SeriesList from "../components/SeriesList.astro";
-import { CLASS_HANDLE, GITHUB_HANDLE } from "../consts";
+import { TWITTER_HANDLE, GITHUB_HANDLE } from "../consts";
 
 const posts = await getCollection("blog");
 
@@ -31,14 +31,14 @@ const featuredSeries = (await getCollection("series")).filter((s) => s.data.feat
         >
       </h1>
       <p>
-        Welcome to my blog! Im a Digital Animation student
+        Welcome to my blog! Im a DigitalAnimation student
         As
         an enthusiastic learner, I aim to share my journey of exploration with you. Join me as I
         write about various aspects of Ar, Animation and videogames.
       </p>
       <div class="space-x-1">
         <a
-          href={CLASS_HANDLE}
+          href={TWITTER_HANDLE}
           target="_blank"
           class="inline-flex items-center justify-center space-x-2 py-2 px-3 rounded-md bg-slate-300 hover:bg-slate-400 dark:bg-slate-800 dark:hover:bg-slate-700"
         >
