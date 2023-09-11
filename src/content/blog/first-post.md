@@ -42,19 +42,19 @@ Nos fuimos al google colab y empezamos a crear el modelo
 
 Una vez terminado de crear el modelo nos pusimos a crear el filtro en snapchat lens.
 
-Lo primero que hicimos fue usar el template de style transfer y tratar de remplacar los ML components para ir agregando los modelos, para probar el cambio de estilo primero intentamops con el script behavior, luego de varios intentos no resulto.
+Lo primero que hicimos fue usar el template de style transfer y tratar de remplacar los ML components para ir agregando los modelos, para probar el cambio de estilo primero intentamos con el script behavior, luego de varios intentos no resulto.
 
 por lo que empezamos a investigar en youtube y logramos encontrar una forma de hacerlo con los script graph.
 
 ![Image](~/assets/ScriptGraph.png)
 
-Luego de eso nos encontramos con otro problema, no lograbamos que se loopiara. Tiempo despues descubrimos que era porque estabamos usando directamente  los ML components. Investigando un poco más encontramos la forma correcta de hacerlo, que es creando screen image y ML components por cada Style asignandolos al Script Graph que conseguimos anteriormente. 
+Luego de eso nos encontramos con otro problema, no lograbamos que se loopiara. Tiempo despues descubrimos que era porque estabamos usando directamente los ML components. Investigando un poco más encontramos la forma correcta de hacerlo, que es creando screen image y ML components por cada Style asignandolos al Script Graph que conseguimos anteriormente. 
 
 ![Image](~/assets/Valores.png)
 
 Finalmente le agregamos un texto para indicar la intencion del filtro.
 
-|  | Gameplay Click en la imagen Para verlo|
+| Imagen del Texto Agruegado | Gameplay |
 | --- | ----------- |
-|  | [![Link Del Gamplay](~/assets/Texto.jpg)](https://youtube.com/shorts/0htxqKCDGVs?feature=share) |
+| [![Link Del Gamplay](~/assets/Texto.jpg)](https://youtube.com/shorts/0htxqKCDGVs?feature=share) |  <iframe width="400" height="800" src="https://www.youtube.com/embed/0htxqKCDGVs" title="Gamplay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  |
 |  | |
