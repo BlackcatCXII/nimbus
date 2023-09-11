@@ -27,7 +27,11 @@ Nos fuimos al google colab y empezamos a crear el modelo
 
 ![screenshot](~/assets/image.png)
 
-![screenshot](~/assets/TestA.png) 
+
+| Intento 3 | Intento 3 |
+| --- | ----------- |
+| ![screenshot](~/assets/TestA.png) | ![screenshot](~/assets/TestB.png) |
+| ![screenshot](~/assets/TestC.png) | | 
 
 | Modelo 1 | Modelo 2 |
 | --- | ----------- |
