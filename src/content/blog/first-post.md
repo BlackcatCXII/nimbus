@@ -40,7 +40,7 @@ Nos fuimos al google colab y empezamos a crear el modelo
 | ![Imagen_Style_1](~/assets/Style3.jpg) | ![Imagen_Style_1](~/assets/Style3.jpg) |
 |  | |
 
-Una vez terminado de crear el modelo nos pusimos a crear el filtro en snapchat lens del cual creamos un timelaps para mostrar nuestro proceso.
+Una vez terminado de crear el modelo nos pusimos a crear el filtro en snapchat lens.
 
 Lo primero que hicimos fue usar el template de style transfer y tratar de remplacar los ML components para ir agregando los modelos, para probar el cambio de estilo primero intentamops con el script behavior, luego de varios intentos no resulto.
 
