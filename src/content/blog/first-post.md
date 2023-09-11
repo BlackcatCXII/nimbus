@@ -26,9 +26,7 @@ nuestra idea es que dentro del filtro se vaya cambiando a diferentes estilos mie
 Nos fuimos al google colab y empezamos a crear el modelo
 
 ![screenshot](~/assets/image.png)
-
-
-| Intento 3 | Intento 3 |
+| |  |
 | --- | ----------- |
 | ![screenshot](~/assets/TestA.png) | ![screenshot](~/assets/TestB.png) |
 | ![screenshot](~/assets/TestC.png) | | 
@@ -36,13 +34,12 @@ Nos fuimos al google colab y empezamos a crear el modelo
 | Modelo 1 | Modelo 2 |
 | --- | ----------- |
 | ![Imagen_Style_1](~/assets/IMG_0992.jpg) | ![Imagen_Style_2](~/assets/Test_2.jpeg) |
-|  | |
 
 | Modelo 3 |  |
 | --- | ----------- |
 | ![Imagen_Style_1](~/assets/Style3.jpg) | ![Imagen_Style_1](~/assets/Style3.jpg) |
 |  | |
----
+
 Una vez terminado de crear el modelo nos pusimos a crear el filtro en snapchat lens del cual creamos un timelaps para mostrar nuestro proceso.
 
 Lo primero que hicimos fue usar el template de style transfer y tratar de remplacar los ML components para ir agregando los modelos, para probar el cambio de estilo primero intentamops con el script behavior, luego de varios intentos no resulto.
@@ -57,7 +54,7 @@ Luego de eso nos encontramos con otro problema, no lograbamos que se loopiara. T
 
 Finalmente le agregamos un texto para indicar la intencion del filtro.
 
-|  | Gameplay |
+|  | Gameplay Click en la imagen Para verlo|
 | --- | ----------- |
 |  | [![Link Del Gamplay](~/assets/Texto.jpg)](https://youtube.com/shorts/0htxqKCDGVs?feature=share) |
 |  | |
